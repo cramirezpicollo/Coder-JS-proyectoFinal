@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nombre": "cerveza",
+        "precio": 500,
+        "cantidad": 1,
+        "img": "https://img.freepik.com/fotos-premium/taza-cerveza-fresca-ligera-espuma-sobre-fondo-vintage-madera-barril-antigua-bodega-o-pub_216977-1070.jpg?w=740"
+    },
+    {
+        "id": 2,
+        "nombre": "ron",
+        "precio": 600,
+        "cantidad": 1,
+        "img": "https://img.freepik.com/fotos-premium/whisky-vaso-hielo_120795-512.jpg?w=740"
+    },
+    {
+        "id": 3,
+        "nombre": "whisky",
+        "precio": 1100,
+        "cantidad": 1,
+        "img": "https://img.freepik.com/foto-gratis/primer-plano-copa-coctel-antigua-hielo-mesa-madera-fondo-borroso_181624-59474.jpg?w=740&t=st=1699897534~exp=1699898134~hmac=09cc24c60b0d3b57c804d5bf7635fdf851e852bb6997e7bc9801ccd0d36bea42"
+    },
+    {
+        "id": 4,
+        "nombre": "vino",
+        "precio": 800,
+        "cantidad": 1,
+        "img": "https://img.freepik.com/foto-gratis/vista-frontal-copas-vino-uvas-frescas-nueces-queso-amarillo-sobre-tablero-madera-botella-volcada-sobre-fondo-oscuro_140725-144998.jpg?w=740&t=st=1699897436~exp=1699898036~hmac=f7a0db5d5274e714342fc6112b1f41cee1ad65ce229b23f2ee5c51a6533d21c2"
+    },
+    {
+        "id": 5,
+        "nombre": "gin",
+        "precio": 1000,
+        "cantidad": 1,
+        "img": "https://img.freepik.com/fotos-premium/gin-tonic-guarnicion-limon-romero_434193-5349.jpg?w=740"
+    }
+]
